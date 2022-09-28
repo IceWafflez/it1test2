@@ -1,4 +1,4 @@
-import './navbar.css';
+import './navbar.scss';
 import { NavLink } from 'react-router-dom';
 
 import arbeid from '../images/arbeid.gif'
