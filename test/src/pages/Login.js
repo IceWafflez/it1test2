@@ -7,7 +7,7 @@ function Login() {
     <div>
        <Navbar />
        <LoginComponent/>
-       aaaa
+       
     </div>   
   );
 }
